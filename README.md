@@ -1,2 +1,2 @@
 # Introduction-to-python
-Hi Coders , This is Notes of Python Tutorial taught by Harshit Vasistha . 
+# to print value up to sum decimal use <format(inputNumber,".nf"))>  here this will print value up to n decimal
